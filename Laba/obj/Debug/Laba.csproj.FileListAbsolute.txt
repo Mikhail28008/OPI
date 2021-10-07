@@ -1,0 +1,11 @@
+C:\Users\Михаил\source\repos\Laba\Laba\bin\Debug\Kadri.accdb
+C:\Users\Михаил\source\repos\Laba\Laba\bin\Debug\Laba.exe.config
+C:\Users\Михаил\source\repos\Laba\Laba\bin\Debug\Laba.exe
+C:\Users\Михаил\source\repos\Laba\Laba\bin\Debug\Laba.pdb
+C:\Users\Михаил\source\repos\Laba\Laba\obj\Debug\Laba.csproj.AssemblyReference.cache
+C:\Users\Михаил\source\repos\Laba\Laba\obj\Debug\Laba.Form1.resources
+C:\Users\Михаил\source\repos\Laba\Laba\obj\Debug\Laba.Properties.Resources.resources
+C:\Users\Михаил\source\repos\Laba\Laba\obj\Debug\Laba.csproj.GenerateResource.cache
+C:\Users\Михаил\source\repos\Laba\Laba\obj\Debug\Laba.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Laba\Laba\obj\Debug\Laba.exe
+C:\Users\Михаил\source\repos\Laba\Laba\obj\Debug\Laba.pdb
