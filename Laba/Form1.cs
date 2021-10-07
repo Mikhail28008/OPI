@@ -78,7 +78,5 @@ namespace Laba
             sotrudTableAdapter1.Update(kadriDataSet1.Sotrud);
             kadriDataSet1.Sotrud.AcceptChanges();
         }
-
-
     }
 }
